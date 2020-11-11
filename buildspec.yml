@@ -9,7 +9,7 @@ phases:
       - echo in the pre_build phase...
   build:
     commands:
-      - echo Build started
+      - echo Build started..
   post_build:
     commands:
-      - echo Build completed
+      - echo Build completed..
